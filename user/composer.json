@@ -1,0 +1,11 @@
+{
+    "name": "nf/user",
+    "description": "user",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nf\\User\\": "src/"
+        }
+    },
+    "require": {}
+}

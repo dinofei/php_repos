@@ -1,0 +1,11 @@
+{
+    "name": "nf/order",
+    "description": "order",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nf\\Order\\": "src/"
+        }
+    },
+    "require": {}
+}
